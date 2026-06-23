@@ -1,0 +1,2 @@
+# Smart-Waste-Management-System-For-Metropolitan-Cities
+Smart Waste Management System is an IoT and AI-based web application for metropolitan cities. It provides real-time smart bin monitoring, route optimization, analytics dashboards, interactive maps, and REST APIs. Built using Python Flask, Chart.js, and Leaflet.js to improve waste collection efficiency and support sustainable urban development.
